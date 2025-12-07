@@ -21,7 +21,7 @@ const Hero = () => {
             <span className="text-[#915eff] font-semibold">Cody</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            目前為一名初階軟體工程師， <br className="block" />
+            目前為一名軟體工程師， <br className="block" />
             對全端有相當程度的了解及相關實作經驗
           </p>
         </div>
